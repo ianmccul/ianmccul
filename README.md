@@ -1,4 +1,13 @@
-## Hi there 👋
+## Ian McCulloch
+
+### Research Scholar at National Tsing Hua University, Hsinhu
+
+I work in Matrix Product State algorithms and applications
+
+You can find (most of) my papers on the arXiv at https://arxiv.org/search/?searchtype=author&query=McCulloch%2C+I+P
+
+Orcid: https://orcid.org/0000-0002-8983-6327
+
 
 <!--
 **ianmccul/ianmccul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
